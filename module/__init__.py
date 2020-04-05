@@ -1,8 +1,9 @@
-"""
-THIS SPECIFIC FILE IS DISTRIBUTED UNDER THE UNLICENSE: http://unlicense.org.
+# -*- coding: utf-8 -*-
+"""The root of Prodpad package namespace."""
 
-THIS MEANS YOU CAN USE THIS CODE EXAMPLE TO KICKSTART A PROJECT YOUR OWN.
-AFTER YOU CREATED YOUR OWN ORIGINAL WORK, YOU CAN REPLACE THIS HEADER :)
-"""
+from module.Prodpad import Prodpad
 
-from .main.parser import main
+__all__ = (
+    'Prodpad',
+    'Idea'
+)
