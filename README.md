@@ -13,7 +13,7 @@ To install, run `pip3 install prodpad`.
 	
 	idea = prodpad.idea('1234')
 	print(idea.title)
-
+```
 
 ### Prerequisites
 
