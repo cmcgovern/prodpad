@@ -7,12 +7,12 @@ This python module exists to make it easy to create python applications that int
 To install, run `pip3 install prodpad`.
 
 ```python
-from prodpad install Prodpad
-
-prodpad = Prodpad(key)
-
-idea = prodpad.idea('1234')
-print(idea.title)
+	from prodpad install Prodpad
+	
+	prodpad = Prodpad(key)
+	
+	idea = prodpad.idea('1234')
+	print(idea.title)
 
 
 ### Prerequisites
