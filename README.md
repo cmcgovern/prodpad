@@ -37,7 +37,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Colin McGovern** - *Initial work* - [PurpleBooth](https://github.com/cmcgovern)
+* **Colin McGovern** - *Initial work* - [Github profile](https://github.com/cmcgovern)
 
 See also the list of [contributors](https://github.com/cmcgovern/prodpad/contributors) who participated in this project.
 
