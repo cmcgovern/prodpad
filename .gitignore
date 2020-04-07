@@ -3,4 +3,5 @@ dist/
 *.egg-info
 *.swp
 *.pyc
+test.py
 __pycache__
