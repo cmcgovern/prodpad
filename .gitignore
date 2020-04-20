@@ -4,4 +4,5 @@ dist/
 *.swp
 *.pyc
 test.py
+env.sh
 __pycache__
